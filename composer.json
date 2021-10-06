@@ -1,6 +1,6 @@
 {
-    "name": "undemanding/difference",
-    "description": "Calculate the difference in images",
+    "name": "mattkenefick/imagedifference",
+    "description": "Calculate the difference in images. Originally undemanding/difference.",
     "license": "MIT",
     "autoload": {
         "psr-4": {
